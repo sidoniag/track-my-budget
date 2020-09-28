@@ -26,6 +26,7 @@ Home page:
 
 ## Deployment
 
+<https://limitless-sierra-65574.herokuapp.com/>
 
 ## Questions
 Visit my github <https://github.com/sidoniag>
