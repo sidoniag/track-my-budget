@@ -1,12 +1,12 @@
-const APP_PREFIX = 'track-my-budget'
-const VERSION = 'version-01'
+const APP_PREFIX = 'track-my-budget-';
+const VERSION = 'version-01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 
 const FILES_TO_CACHE = [
     '/',
     './index.html',
     './manifest.json',
-    './css/style.css',
+    './style.css',
     './js/idb.js',
     './js/index.js',
     './icons/icon-72x72.png',
