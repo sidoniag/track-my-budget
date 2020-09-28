@@ -31,4 +31,4 @@ Home page:
 ## Questions
 Visit my github <https://github.com/sidoniag>
 
-Any questions can be emailed to me directly: [seekersig@gmail.com]<seekersig@gmail.com>
+Any questions can be emailed to me directly: <seekersig@gmail.com>
