@@ -22,7 +22,7 @@ This application provides an easy way to track a budget. The user is able to add
 
 ## Screenshot
 Home page:
-![home page](./public/track-my-budget.png)
+![home page](./public/track-my-budget-img.png)
 
 ## Deployment
 
