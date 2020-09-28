@@ -14,7 +14,6 @@ This application provides an easy way to track a budget. The user is able to add
 
 * IndexedDB
 * Service Worker
-* Mongoose
 * NodeJS
 * ExpressJS
 * JSON
