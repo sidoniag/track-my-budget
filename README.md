@@ -21,14 +21,13 @@ This application provides an easy way to track a budget. The user is able to add
 * MongoDB Atlas
 
 ## Screenshot
-Home page:
-![home page](./public/track-my-budget-img.png)
+<img src="/track_my_budget.png" />
 
 ## Deployment
 
-<https://limitless-sierra-65574.herokuapp.com/>
+[Heroku](https://limitless-sierra-65574.herokuapp.com)
 
 ## Questions
-Visit my github <https://github.com/sidoniag>
+[Github](https://github.com/sidoniag)
 
-Any questions can be emailed to me directly: <seekersig@gmail.com>
+[Email](seekersig@gmail.com)

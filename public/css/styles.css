@@ -54,8 +54,8 @@ tr:nth-child(even) {
 .title {
   background-color: goldenrod;
   min-height: 100px;
-  align-items: center;
 }
+
 
 .textbox {
   align-content: center;
