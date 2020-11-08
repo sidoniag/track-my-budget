@@ -43,9 +43,81 @@ tr:nth-child(even) {
 }
 
 .transactions {
+  text-align: start;
   text-align: left;
   max-height: 300px;
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+.title {
+  background-color: goldenrod;
+  min-height: 100px;
+  align-items: center;
+}
+
+.textbox {
+  align-content: center;
+  align-self: center;
+  float: center;
+  align-items: center;
+  block-size: 6em;
+  background-color: transparent;
+  border-color: teal;
+  border-width: 3px;
+  color: teal;
+}
+
+h1 {
+  font-weight: 700;
+  font-variant-caps: all-petite-caps;
+  font-size: 3em;
+  color: whitesmoke;
+}
+h3 {
+  font-weight: 700;
+  font-variant-caps: all-petite-caps;
+  font-size: 1em;
+  color: whitesmoke;
+  
+}
+
+.total {
+  text-emphasis: none;
+  text-decoration: none;
+}
+
+.center {
+ float: center;
+ align-items: center;
+}
+
+th {
+  color: teal;
+}
+
+.total {
+  background-color: teal;
+  min-height: 60px;
+  align-items: center;
+}
+
+button {
+  padding: .3em;
+  color: teal;
+}
+
+input {
+  padding: .3em;
+  color: teal;
+  
+}
+
+input.placeholder {
+  color: teal;
+}
+
+.input {
+  color: teal;
 }

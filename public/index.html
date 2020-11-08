@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,12 +11,26 @@
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/styles.css">
 
-  <title>Budget Tracker</title>
 </head>
+
 <body>
+  <div class="title" >
+    <h1>Track My Budget</h1>
+  </div>
   <div class="wrapper">
+    <br />
+    <div class="textbox">
+    <p>welcome to Track My Budget<br /> a simple application to track your budget</p>
+  </div>
+    <br />
+    <br />
+
+
+
     <div class="total">
-      <div class="total">Your total is: $<span id="total">0</span></div>
+      <div class="total">
+        <h3>Your total is: $<span id="total">0</span></h3>
+      </div>
     </div>
 
     <div class="form">
@@ -33,18 +48,18 @@
           <th>Amount</th>
         </thead>
         <tbody id="tbody">
-          
+
         </tbody>
       </table>
     </div>
-    
+
     <canvas id="myChart"></canvas>
   </div>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="js/index.js"></script>
   <script src="js/idb.js"></script>
   <script type="text/javascript">
-    (function() {
+    (function () {
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker
           .register('./service-worker.js')
@@ -52,8 +67,9 @@
           .catch(error =>
             console.log('Service Worker registration failed:', error)
           );
-        }
-      })();
-    </script>
+      }
+    })();
+  </script>
 </body>
+
 </html>
