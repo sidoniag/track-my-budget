@@ -1,4 +1,6 @@
-## Track My Budget
+### Track My Budget
+
+**SUMMARY**
 This application provides an easy way to track a budget. The user is able to add expenses and deposits to their budget with or without an internet connection. 
 
 ## Table of Contents
